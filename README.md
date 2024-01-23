@@ -1,7 +1,7 @@
 # community_store_payrexx
 Payrexx payments for Community Store for concrete5
 
-https://www.payrexx.com/
+https://www.payrexx.com/?ref=concrete5
 
 ## Setup
 Install Community Store First.
